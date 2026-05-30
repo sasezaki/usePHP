@@ -4,7 +4,6 @@
 .php-cs-fixer.dist.php export-ignore
 .serena export-ignore
 docs export-ignore
-editors export-ignore
 examples export-ignore
 phpstan.neon export-ignore
 phpunit.xml export-ignore
